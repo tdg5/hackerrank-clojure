@@ -1,4 +1,4 @@
-# [Project Euler #1: Multiples of 3 and # 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001)
+# [Project Euler #1: Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001)
 
 ## Problem Statement
 
@@ -23,16 +23,16 @@ of 3 or 5 below N.
 
 ## Constraints
 
-1 <= T <= 10 ^ 5
+1 <= T <= 10 ^ 5  
 1 <= N <= 10 ^ 9
 
 ## Sample Input
 
-2
-10
+2  
+10  
 100
 
 ## Sample Output
 
-23
+23  
 2318
